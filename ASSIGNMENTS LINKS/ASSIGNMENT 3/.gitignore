@@ -1,0 +1,6 @@
+/*.exe
+/task0[1-7]
+/task0[1-7]_asan
+/task0[1-7]_O0
+/task0[1-7]_O2
+*.o
