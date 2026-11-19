@@ -1,0 +1,1 @@
+Record actual machine details, compiler version, -O2 flags, number of repetitions and average timings here. Never invent benchmark values.
