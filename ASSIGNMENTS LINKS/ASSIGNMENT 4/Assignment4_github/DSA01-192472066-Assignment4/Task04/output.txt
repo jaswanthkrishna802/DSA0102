@@ -1,0 +1,7 @@
+Expected key values:
+3.5 4
+3.5
+3.5
+4
+
+Destructor messages follow as the objects leave scope. Run with AddressSanitizer and save the genuine output/report. This repaired example should not be presented as evidence of the original leaking program.
