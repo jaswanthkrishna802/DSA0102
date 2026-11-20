@@ -1,1 +1,0 @@
-Run the program to generate the vehicle-by-vehicle rental, charge and return messages. Capture the actual terminal output in a screenshot.

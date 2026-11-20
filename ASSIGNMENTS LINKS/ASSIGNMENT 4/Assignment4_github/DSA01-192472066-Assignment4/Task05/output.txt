@@ -1,6 +1,0 @@
-Expected output:
-324.00
-324.00
-50.00
-
-Run and capture your own terminal screenshot.

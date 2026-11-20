@@ -1,7 +1,0 @@
-Expected output:
-Kiran 201 9876543210
-CSE 8.5
-Computer Science 35000
-Divya ECE 12000
-
-Run the program and confirm this output on your compiler.

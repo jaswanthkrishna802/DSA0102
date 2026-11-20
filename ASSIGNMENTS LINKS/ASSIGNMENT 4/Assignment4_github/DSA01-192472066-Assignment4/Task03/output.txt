@@ -1,2 +1,0 @@
-The constructor/destructor messages are intentionally printed by the program.
-Run it to capture the exact order produced by your compiler and add your terminal screenshot.
