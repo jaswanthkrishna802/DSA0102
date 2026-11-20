@@ -1,3 +1,0 @@
-Outpatient: consultation=500, tests=1200 -> 1700
-Inpatient: days=3, perDay=2500, surgery=40000 -> 47500
-Add your own DayCare and Emergency test cases and hand calculations.
