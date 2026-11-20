@@ -1,0 +1,1 @@
+Save your genuine terminal execution screenshot(s) in this folder. Do not use an expected-output text file as a substitute for screenshots.

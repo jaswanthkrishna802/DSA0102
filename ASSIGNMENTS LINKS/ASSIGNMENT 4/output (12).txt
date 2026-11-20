@@ -1,0 +1,6 @@
+Expected output from the supplied sample data:
+Anita (101): 79000
+Ravi (102): 42600
+Meera (103): 36000
+
+Run the program and replace/confirm this log with your actual output.
